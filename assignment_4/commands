@@ -1,0 +1,10 @@
+kubectl delete service hello-world-service
+kubectl delete service product-descp-service
+kubectl delete service product-price-service
+kubectl delete service server-service
+
+
+kubectl delete deployment hello-world-deployment
+kubectl delete deployment product-descp-deployment
+kubectl delete deployment product-price-deployment
+kubectl delete deployment server-deployment
